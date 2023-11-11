@@ -1,422 +1,482 @@
-{
-    "清養苑": {
+[
+    {
+        "name": "清養苑",
         "rating": 4.3,
         "user_ratings_total": 369,
         "price_level": 2,
         "distance": "3.4 km",
         "duration": "10分"
     },
-    "安楽亭 川崎高津店": {
+    {
+        "name": "安楽亭 川崎高津店",
         "rating": 3.6,
         "user_ratings_total": 519,
         "price_level": 1,
         "distance": "3.6 km",
         "duration": "10分"
     },
-    "炭火焼肉 七輪房 川崎野川店": {
+    {
+        "name": "炭火焼肉 七輪房 川崎野川店",
         "rating": 3.5,
         "user_ratings_total": 239,
         "price_level": 2,
         "distance": "5.0 km",
         "duration": "18分"
     },
-    "じゅうじゅうカルビ 綱島店": {
+    {
+        "name": "じゅうじゅうカルビ 綱島店",
         "rating": 3.5,
         "user_ratings_total": 573,
         "price_level": 2,
         "distance": "4.4 km",
         "duration": "13分"
     },
-    "牛角 日吉店": {
+    {
+        "name": "牛角 日吉店",
         "rating": 3.4,
         "user_ratings_total": 85,
         "price_level": 2,
         "distance": "3.1 km",
         "duration": "10分"
     },
-    "焼肉 うらと久まつ 日吉店 (うらときゅうまつ）": {
+    {
+        "name": "焼肉 うらと久まつ 日吉店 (うらときゅうまつ）",
         "rating": 3.7,
         "user_ratings_total": 41,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "3.1 km",
         "duration": "11分"
     },
-    "国産牛焼肉くいどん 中原店": {
+    {
+        "name": "国産牛焼肉くいどん 中原店",
         "rating": 3.7,
         "user_ratings_total": 476,
         "price_level": 2,
         "distance": "1.6 km",
         "duration": "6分"
     },
-    "国産牛焼肉くいどん 都筑店": {
+    {
+        "name": "国産牛焼肉くいどん 都筑店",
         "rating": 3.8,
         "user_ratings_total": 328,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "10.9 km",
         "duration": "22分"
     },
-    "焼肉苑 平間店": {
+    {
+        "name": "焼肉苑 平間店",
         "rating": 4.2,
         "user_ratings_total": 231,
         "price_level": 1,
         "distance": "2.3 km",
         "duration": "7分"
     },
-    "牛角 綱島店": {
+    {
+        "name": "牛角 綱島店",
         "rating": 3.5,
         "user_ratings_total": 114,
         "price_level": 2,
         "distance": "5.5 km",
         "duration": "19分"
     },
-    "七輪焼肉 安安 武蔵新城店": {
+    {
+        "name": "七輪焼肉 安安 武蔵新城店",
         "rating": 3.5,
         "user_ratings_total": 72,
         "price_level": 1,
         "distance": "3.5 km",
         "duration": "14分"
     },
-    "焼肉チョモランマ 武蔵小杉店": {
+    {
+        "name": "焼肉チョモランマ 武蔵小杉店",
         "rating": 3.9,
         "user_ratings_total": 190,
         "price_level": 2,
         "distance": "0.5 km",
         "duration": "3分"
     },
-    "焼肉スエヒロ館 川崎宮前店": {
+    {
+        "name": "焼肉スエヒロ館 川崎宮前店",
         "rating": 3.8,
         "user_ratings_total": 407,
         "price_level": 2,
         "distance": "6.9 km",
         "duration": "22分"
     },
-    "牛角 樽町店": {
+    {
+        "name": "牛角 樽町店",
         "rating": 3.1,
         "user_ratings_total": 219,
         "price_level": 2,
         "distance": "6.5 km",
         "duration": "20分"
     },
-    "七輪焼肉 安安 武蔵小杉店": {
+    {
+        "name": "七輪焼肉 安安 武蔵小杉店",
         "rating": 3.6,
         "user_ratings_total": 176,
         "price_level": 1,
         "distance": "0.5 km",
         "duration": "3分"
     },
-    "焼肉名菜 福寿 武蔵小杉店": {
+    {
+        "name": "焼肉名菜 福寿 武蔵小杉店",
         "rating": 3.9,
         "user_ratings_total": 150,
         "price_level": 2,
         "distance": "0.3 km",
         "duration": "2分"
     },
-    "焼肉バン・バン": {
+    {
+        "name": "焼肉バン・バン",
         "rating": 4,
         "user_ratings_total": 86,
         "price_level": 2,
         "distance": "4.2 km",
         "duration": "12分"
     },
-    "焼肉らあめん 不二": {
+    {
+        "name": "焼肉らあめん 不二",
         "rating": 4,
         "user_ratings_total": 47,
         "price_level": 1,
         "distance": "1.3 km",
         "duration": "4分"
     },
-    "焼肉苑 溝口店": {
+    {
+        "name": "焼肉苑 溝口店",
         "rating": 4.3,
         "user_ratings_total": 536,
         "price_level": 1,
         "distance": "5.8 km",
         "duration": "19分"
     },
-    "安楽亭 宮前平店": {
+    {
+        "name": "安楽亭 宮前平店",
         "rating": 3.4,
         "user_ratings_total": 319,
         "price_level": 1,
         "distance": "8.3 km",
         "duration": "25分"
     },
-    "焼肉きんぐ 川崎高津店": {
+    {
+        "name": "焼肉きんぐ 川崎高津店",
         "rating": 3.9,
         "user_ratings_total": 540,
         "price_level": 2,
         "distance": "7.4 km",
         "duration": "25分"
     },
-    "大衆焼肉ホルモン ひゃくてん": {
+    {
+        "name": "大衆焼肉ホルモン ひゃくてん",
         "rating": 4.1,
         "user_ratings_total": 554,
         "price_level": 1,
         "distance": "5.4 km",
         "duration": "19分"
     },
-    "A5山形牛一頭買い焼肉くろべこ 武蔵小杉店": {
+    {
+        "name": "A5山形牛一頭買い焼肉くろべこ 武蔵小杉店",
         "rating": 3.6,
         "user_ratings_total": 254,
         "price_level": 2,
         "distance": "0.1 km",
         "duration": "2分"
     },
-    "プレミアムカルビ 港北日吉店": {
+    {
+        "name": "プレミアムカルビ 港北日吉店",
         "rating": 4,
         "user_ratings_total": 260,
         "price_level": 2,
         "distance": "4.2 km",
         "duration": "12分"
     },
-    "焼肉トラジ トレッサ横浜店": {
+    {
+        "name": "焼肉トラジ トレッサ横浜店",
         "rating": 3.8,
         "user_ratings_total": 197,
         "price_level": 3,
         "distance": "6.8 km",
         "duration": "21分"
     },
-    "焼肉食堂 こころ": {
+    {
+        "name": "焼肉食堂 こころ",
         "rating": 4.6,
         "user_ratings_total": 186,
         "price_level": 2,
         "distance": "4.8 km",
         "duration": "16分"
     },
-    "国産牛焼肉くいどん 新城店": {
+    {
+        "name": "国産牛焼肉くいどん 新城店",
         "rating": 3.8,
         "user_ratings_total": 176,
         "price_level": 2,
         "distance": "3.3 km",
         "duration": "12分"
     },
-    "えいりぃ亭": {
+    {
+        "name": "えいりぃ亭",
         "rating": 4.3,
         "user_ratings_total": 114,
         "price_level": 2,
         "distance": "10.0 km",
         "duration": "28分"
     },
-    "牛庵 港北ニュータウン店": {
+    {
+        "name": "牛庵 港北ニュータウン店",
         "rating": 3.2,
         "user_ratings_total": 522,
         "price_level": 2,
         "distance": "10.5 km",
         "duration": "29分"
     },
-    "焼肉慶 Yakiniku Kei": {
+    {
+        "name": "焼肉慶 Yakiniku Kei",
         "rating": 4.3,
         "user_ratings_total": 112,
         "price_level": 2,
         "distance": "0.9 km",
         "duration": "3分"
     },
-    "焼肉きんぐ 横浜都筑店": {
+    {
+        "name": "焼肉きんぐ 横浜都筑店",
         "rating": 3.8,
         "user_ratings_total": 741,
         "price_level": 2,
         "distance": "10.5 km",
         "duration": "28分"
     },
-    "綱島ホルモン": {
+    {
+        "name": "綱島ホルモン",
         "rating": 4,
         "user_ratings_total": 108,
         "price_level": 2,
         "distance": "5.6 km",
         "duration": "19分"
     },
-    "炭火焼肉 大倉山": {
+    {
+        "name": "炭火焼肉 大倉山",
         "rating": 4.1,
         "user_ratings_total": 283,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "6.2 km",
         "duration": "19分"
     },
-    "炭火焼肉 福楽苑 新横浜本店": {
+    {
+        "name": "炭火焼肉 福楽苑 新横浜本店",
         "rating": 3.5,
         "user_ratings_total": 242,
         "price_level": 2,
         "distance": "9.9 km",
         "duration": "30分"
     },
-    "焼肉キッチン カルビパパ": {
+    {
+        "name": "焼肉キッチン カルビパパ",
         "rating": 3.9,
         "user_ratings_total": 145,
         "price_level": 2,
         "distance": "3.4 km",
         "duration": "10分"
     },
-    "特選和牛大将軍 武蔵小杉店": {
+    {
+        "name": "特選和牛大将軍 武蔵小杉店",
         "rating": 3.9,
         "user_ratings_total": 106,
         "price_level": 3,
         "distance": "0.6 km",
         "duration": "4分"
     },
-    "横濱慶州苑 新横浜店": {
+    {
+        "name": "横濱慶州苑 新横浜店",
         "rating": 4,
         "user_ratings_total": 381,
         "price_level": 2,
         "distance": "9.1 km",
         "duration": "29分"
     },
-    "焼肉かやらん センター南駅前店": {
+    {
+        "name": "焼肉かやらん センター南駅前店",
         "rating": 3.8,
         "user_ratings_total": 161,
         "price_level": 2,
         "distance": "11.2 km",
         "duration": "31分"
     },
-    "七輪焼肉 安安 港北センター北店": {
+    {
+        "name": "七輪焼肉 安安 港北センター北店",
         "rating": 3.3,
         "user_ratings_total": 162,
         "price_level": 1,
         "distance": "10.4 km",
         "duration": "28分"
     },
-    "牛角 港北ニュータウンセンター南店": {
+    {
+        "name": "牛角 港北ニュータウンセンター南店",
         "rating": 3.3,
         "user_ratings_total": 168,
         "price_level": 2,
         "distance": "13.7 km",
         "duration": "28分"
     },
-    "焼肉 但馬屋 コスギサードアヴェニュー店": {
+    {
+        "name": "焼肉 但馬屋 コスギサードアヴェニュー店",
         "rating": 3.8,
         "user_ratings_total": 79,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "52 m",
         "duration": "1分"
     },
-    "焼肉 天佑": {
+    {
+        "name": "焼肉 天佑",
         "rating": 4.6,
         "user_ratings_total": 47,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "3.7 km",
         "duration": "12分"
     },
-    "焼肉スエヒロ館 横浜鶴見店": {
+    {
+        "name": "焼肉スエヒロ館 横浜鶴見店",
         "rating": 3.8,
         "user_ratings_total": 246,
         "price_level": 2,
         "distance": "8.1 km",
         "duration": "25分"
     },
-    "七輪焼肉 安安 新横浜店": {
+    {
+        "name": "七輪焼肉 安安 新横浜店",
         "rating": 3.7,
         "user_ratings_total": 190,
         "price_level": 1,
         "distance": "9.6 km",
         "duration": "32分"
     },
-    "焼肉かやらん 仲町台店": {
+    {
+        "name": "焼肉かやらん 仲町台店",
         "rating": 3.9,
         "user_ratings_total": 99,
         "price_level": 2,
         "distance": "11.7 km",
         "duration": "24分"
     },
-    "焼肉文ちゃん": {
+    {
+        "name": "焼肉文ちゃん",
         "rating": 4.2,
         "user_ratings_total": 121,
         "price_level": 2,
         "distance": "7.5 km",
         "duration": "22分"
     },
-    "焼肉の牛太 二子玉川店": {
+    {
+        "name": "焼肉の牛太 二子玉川店",
         "rating": 3.6,
         "user_ratings_total": 128,
         "price_level": 2,
         "distance": "3.5 km",
         "duration": "8分"
     },
-    "かみむら牧場 横浜鶴見駒岡店": {
+    {
+        "name": "かみむら牧場 横浜鶴見駒岡店",
         "rating": 3.9,
         "user_ratings_total": 155,
         "price_level": 2,
         "distance": "5.7 km",
         "duration": "16分"
     },
-    "焼肉Dining零": {
+    {
+        "name": "焼肉Dining零",
         "rating": 4.2,
         "user_ratings_total": 135,
         "price_level": 2,
         "distance": "8.6 km",
         "duration": "25分"
     },
-    "炭火焼肉食道園": {
+    {
+        "name": "炭火焼肉食道園",
         "rating": 3.8,
         "user_ratings_total": 463,
         "price_level": 2,
         "distance": "7.7 km",
         "duration": "23分"
     },
-    "焼肉 一喜FARM": {
+    {
+        "name": "焼肉 一喜FARM",
         "rating": 3.8,
         "user_ratings_total": 75,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "12.1 km",
         "duration": "25分"
     },
-    "ワンカルビ ルララこうほく店": {
+    {
+        "name": "ワンカルビ ルララこうほく店",
         "rating": 4.1,
         "user_ratings_total": 189,
         "price_level": 2,
         "distance": "10.4 km",
         "duration": "28分"
     },
-    "横浜慶州苑 菊名店": {
+    {
+        "name": "横浜慶州苑 菊名店",
         "rating": 4.1,
         "user_ratings_total": 118,
         "price_level": 2,
         "distance": "11.7 km",
         "duration": "36分"
     },
-    "牛角 新横浜店": {
+    {
+        "name": "牛角 新横浜店",
         "rating": 3.4,
         "user_ratings_total": 154,
         "price_level": 2,
         "distance": "9.1 km",
         "duration": "29分"
     },
-    "焼肉 三年目の浮気 鶴見店": {
+    {
+        "name": "焼肉 三年目の浮気 鶴見店",
         "rating": 4.4,
         "user_ratings_total": 190,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "8.5 km",
         "duration": "25分"
     },
-    "七輪焼肉 安安 池上店": {
+    {
+        "name": "七輪焼肉 安安 池上店",
         "rating": 3.5,
         "user_ratings_total": 138,
         "price_level": 1,
         "distance": "5.9 km",
         "duration": "17分"
     },
-    "焼肉ライク 横浜荏田店": {
+    {
+        "name": "焼肉ライク 横浜荏田店",
         "rating": 3.5,
         "user_ratings_total": 851,
         "price_level": 1,
         "distance": "11.3 km",
         "duration": "32分"
     },
-    "炭火焼肉 大幸": {
+    {
+        "name": "炭火焼肉 大幸",
         "rating": 4.4,
         "user_ratings_total": 59,
         "price_level": 2,
         "distance": "9.3 km",
         "duration": "28分"
     },
-    "世田谷焼肉bon": {
+    {
+        "name": "世田谷焼肉bon",
         "rating": 4.6,
         "user_ratings_total": 58,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "4.9 km",
         "duration": "12分"
     },
-    "焼肉 福楽苑 鶴見市場駅前店": {
+    {
+        "name": "焼肉 福楽苑 鶴見市場駅前店",
         "rating": 3.4,
         "user_ratings_total": 41,
-        "price_level": 0,
+        "price_level": -1,
         "distance": "7.3 km",
         "duration": "23分"
     }
-}
+]
