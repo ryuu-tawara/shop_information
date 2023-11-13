@@ -1,0 +1,962 @@
+[
+    {
+        "name": "横浜 ゑびす鯛",
+        "rating": 3.8,
+        "user_ratings_total": 562,
+        "price_level": 2,
+        "distance": "0.5 km",
+        "duration": "2分"
+    },
+    {
+        "name": "横浜 居酒屋 しり鳥商店(昼飲み・飲み放題有)",
+        "rating": 4.1,
+        "user_ratings_total": 338,
+        "price_level": 2,
+        "distance": "0.4 km",
+        "duration": "3分"
+    },
+    {
+        "name": "今村商店",
+        "rating": 3.9,
+        "user_ratings_total": 324,
+        "price_level": 1,
+        "distance": "0.5 km",
+        "duration": "3分"
+    },
+    {
+        "name": "全席個室 じぶんどき 横浜店",
+        "rating": 3.9,
+        "user_ratings_total": 296,
+        "price_level": 2,
+        "distance": "0.4 km",
+        "duration": "2分"
+    },
+    {
+        "name": "貝と炭火焼と日本酒 撓たわわ",
+        "rating": 3.9,
+        "user_ratings_total": 147,
+        "price_level": 2,
+        "distance": "1.1 km",
+        "duration": "4分"
+    },
+    {
+        "name": "はまの家 横浜西口店",
+        "rating": 3.3,
+        "user_ratings_total": 222,
+        "price_level": 2,
+        "distance": "0.4 km",
+        "duration": "2分"
+    },
+    {
+        "name": "腹黒屋 横浜",
+        "rating": 4.1,
+        "user_ratings_total": 378,
+        "price_level": 2,
+        "distance": "0.4 km",
+        "duration": "2分"
+    },
+    {
+        "name": "宮崎県日南市 塚田農場 横浜西口店",
+        "rating": 4.1,
+        "user_ratings_total": 454,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "四十八漁場 エキニア横浜店",
+        "rating": 4.4,
+        "user_ratings_total": 520,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "漁師ダイニング 満月 横浜駅西口本店",
+        "rating": 3.7,
+        "user_ratings_total": 460,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "3分"
+    },
+    {
+        "name": "みや田 横浜店",
+        "rating": 2,
+        "user_ratings_total": 108,
+        "price_level": -1,
+        "distance": "0.5 km",
+        "duration": "4分"
+    },
+    {
+        "name": "弥平 横浜鶴屋町店",
+        "rating": 4,
+        "user_ratings_total": 173,
+        "price_level": 2,
+        "distance": "0.9 km",
+        "duration": "3分"
+    },
+    {
+        "name": "全席個室 楽蔵うたげ 横浜西口駅前店",
+        "rating": 3.6,
+        "user_ratings_total": 187,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "魚参 横浜西口店",
+        "rating": 3.8,
+        "user_ratings_total": 371,
+        "price_level": 1,
+        "distance": "0.5 km",
+        "duration": "3分"
+    },
+    {
+        "name": "村木屋 横浜店",
+        "rating": 4.1,
+        "user_ratings_total": 369,
+        "price_level": -1,
+        "distance": "0.1 km",
+        "duration": "2分"
+    },
+    {
+        "name": "ときあかり",
+        "rating": 3.9,
+        "user_ratings_total": 65,
+        "price_level": 2,
+        "distance": "1.1 km",
+        "duration": "4分"
+    },
+    {
+        "name": "ミライザカ横浜西口鶴屋町前店",
+        "rating": 3.5,
+        "user_ratings_total": 145,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "魚寅本店",
+        "rating": 3.7,
+        "user_ratings_total": 558,
+        "price_level": 2,
+        "distance": "34 m",
+        "duration": "1分"
+    },
+    {
+        "name": "わらやき屋 横浜",
+        "rating": 4,
+        "user_ratings_total": 380,
+        "price_level": 2,
+        "distance": "0.4 km",
+        "duration": "2分"
+    },
+    {
+        "name": "土間土間 横浜西口店",
+        "rating": 3.2,
+        "user_ratings_total": 202,
+        "price_level": 2,
+        "distance": "0.1 km",
+        "duration": "1分"
+    },
+    {
+        "name": "はれるや 横浜本店",
+        "rating": 3.7,
+        "user_ratings_total": 202,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "さがみ",
+        "rating": 3.6,
+        "user_ratings_total": 460,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "3分"
+    },
+    {
+        "name": "ウメ子の家 横浜西口店",
+        "rating": 3.8,
+        "user_ratings_total": 211,
+        "price_level": 2,
+        "distance": "0.1 km",
+        "duration": "1分"
+    },
+    {
+        "name": "鮮魚と牛タン 志満津",
+        "rating": 3.8,
+        "user_ratings_total": 113,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "4分"
+    },
+    {
+        "name": "今一商店",
+        "rating": 4,
+        "user_ratings_total": 389,
+        "price_level": 1,
+        "distance": "0.4 km",
+        "duration": "2分"
+    },
+    {
+        "name": "個室居酒屋 ひなた 横浜駅前店",
+        "rating": 4.1,
+        "user_ratings_total": 1081,
+        "price_level": -1,
+        "distance": "0.5 km",
+        "duration": "4分"
+    },
+    {
+        "name": "鶴屋横浜総本店",
+        "rating": 4.1,
+        "user_ratings_total": 298,
+        "price_level": -1,
+        "distance": "0.1 km",
+        "duration": "2分"
+    },
+    {
+        "name": "和食居酒屋 咲くら 横浜店",
+        "rating": 3.6,
+        "user_ratings_total": 497,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "はじめや横浜本店",
+        "rating": 3.9,
+        "user_ratings_total": 264,
+        "price_level": 1,
+        "distance": "0.6 km",
+        "duration": "3分"
+    },
+    {
+        "name": "横浜情緒個室Dining 楓",
+        "rating": 3.1,
+        "user_ratings_total": 171,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "3分"
+    },
+    {
+        "name": "酒とったり",
+        "rating": 4,
+        "user_ratings_total": 335,
+        "price_level": 2,
+        "distance": "42 m",
+        "duration": "1分"
+    },
+    {
+        "name": "酒処串家",
+        "rating": 3.4,
+        "user_ratings_total": 112,
+        "price_level": 2,
+        "distance": "0.1 km",
+        "duration": "1分"
+    },
+    {
+        "name": "居酒屋 勢 ハマ横丁",
+        "rating": 4.2,
+        "user_ratings_total": 52,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "横浜商店",
+        "rating": 4,
+        "user_ratings_total": 519,
+        "price_level": 1,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "博多の寅ちゃん 横浜鶴屋町店",
+        "rating": 3.5,
+        "user_ratings_total": 236,
+        "price_level": -1,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "完全個室 満月いぶき 横浜鶴屋町",
+        "rating": 3.9,
+        "user_ratings_total": 71,
+        "price_level": -1,
+        "distance": "1.1 km",
+        "duration": "4分"
+    },
+    {
+        "name": "居酒屋いっすんぼうし 横浜東口店",
+        "rating": 3.8,
+        "user_ratings_total": 152,
+        "price_level": 1,
+        "distance": "0.4 km",
+        "duration": "3分"
+    },
+    {
+        "name": "はまの風 横浜西口店",
+        "rating": 3.5,
+        "user_ratings_total": 153,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "一軒め酒場 横浜西口店",
+        "rating": 3.6,
+        "user_ratings_total": 871,
+        "price_level": 1,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "薄利多賣半兵ヱ 横浜西口店",
+        "rating": 3.3,
+        "user_ratings_total": 175,
+        "price_level": 1,
+        "distance": "59 m",
+        "duration": "1分"
+    },
+    {
+        "name": "日本酒・魚料理 横浜 酒槽",
+        "rating": 4.4,
+        "user_ratings_total": 188,
+        "price_level": -1,
+        "distance": "0.4 km",
+        "duration": "2分"
+    },
+    {
+        "name": "ミライザカＪＲ横浜西口駅前店",
+        "rating": 3.3,
+        "user_ratings_total": 125,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "土間土間 横浜駅前店",
+        "rating": 3.4,
+        "user_ratings_total": 167,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "薩摩次郎 横浜駅前店",
+        "rating": 2.3,
+        "user_ratings_total": 133,
+        "price_level": 2,
+        "distance": "0.6 km",
+        "duration": "3分"
+    },
+    {
+        "name": "日本酒バルUMAMI",
+        "rating": 4.1,
+        "user_ratings_total": 171,
+        "price_level": 2,
+        "distance": "0.5 km",
+        "duration": "3分"
+    },
+    {
+        "name": "四季食遊 鮮と閑 横浜西口TSプラザビル店",
+        "rating": 3.5,
+        "user_ratings_total": 161,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "浪花ろばた八角 横浜ポルタ店",
+        "rating": 3.7,
+        "user_ratings_total": 545,
+        "price_level": 2,
+        "distance": "3 m",
+        "duration": "1分"
+    },
+    {
+        "name": "なか一",
+        "rating": 3.8,
+        "user_ratings_total": 729,
+        "price_level": 1,
+        "distance": "13 m",
+        "duration": "1分"
+    },
+    {
+        "name": "肉バル MEATBOY N．Y 横浜店",
+        "rating": 3.3,
+        "user_ratings_total": 156,
+        "price_level": 2,
+        "distance": "1.1 km",
+        "duration": "4分"
+    },
+    {
+        "name": "魚と酒 はなたれ 横浜東口店",
+        "rating": 3.8,
+        "user_ratings_total": 243,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "Light house",
+        "rating": 2.8,
+        "user_ratings_total": 40,
+        "price_level": -1,
+        "distance": "0.5 km",
+        "duration": "4分"
+    },
+    {
+        "name": "楚々屋 横浜西口店",
+        "rating": 3.6,
+        "user_ratings_total": 166,
+        "price_level": 1,
+        "distance": "0.1 km",
+        "duration": "1分"
+    },
+    {
+        "name": "くいもの屋わん 横浜西口駅前店",
+        "rating": 3.4,
+        "user_ratings_total": 273,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "唯一無二",
+        "rating": 3.7,
+        "user_ratings_total": 142,
+        "price_level": 2,
+        "distance": "0.1 km",
+        "duration": "2分"
+    },
+    {
+        "name": "伍馳‐GOCHI‐ 横浜店",
+        "rating": 3,
+        "user_ratings_total": 168,
+        "price_level": 2,
+        "distance": "1.1 km",
+        "duration": "4分"
+    },
+    {
+        "name": "横浜完全個室 満月はなれ 横浜",
+        "rating": 3.7,
+        "user_ratings_total": 182,
+        "price_level": 2,
+        "distance": "0.5 km",
+        "duration": "3分"
+    },
+    {
+        "name": "串兵衛 裏横 横浜東口店",
+        "rating": 3.7,
+        "user_ratings_total": 267,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "3分"
+    },
+    {
+        "name": "居酒屋 甘太郎 横浜西口本店",
+        "rating": 3.6,
+        "user_ratings_total": 290,
+        "price_level": 2,
+        "distance": "0.1 km",
+        "duration": "1分"
+    },
+    {
+        "name": "白木屋 横浜西口南幸店",
+        "rating": 3.2,
+        "user_ratings_total": 109,
+        "price_level": 1,
+        "distance": "0.6 km",
+        "duration": "3分"
+    },
+    {
+        "name": "旬彩やまぐち",
+        "rating": 4.2,
+        "user_ratings_total": 101,
+        "price_level": 2,
+        "distance": "0.6 km",
+        "duration": "3分"
+    },
+    {
+        "name": "小籠包食べ放題個室 金鳳酒家（キンホウシュカ）横浜中華街",
+        "rating": 3.3,
+        "user_ratings_total": 302,
+        "price_level": 2,
+        "distance": "4.6 km",
+        "duration": "10分"
+    },
+    {
+        "name": "大珍楼 本店",
+        "rating": 3.6,
+        "user_ratings_total": 1047,
+        "price_level": 2,
+        "distance": "4.8 km",
+        "duration": "11分"
+    },
+    {
+        "name": "広東料理飲茶食べ放題 龍興飯店(中華街本店)",
+        "rating": 4.2,
+        "user_ratings_total": 1821,
+        "price_level": 1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "重慶飯店新館レストラン",
+        "rating": 4.1,
+        "user_ratings_total": 1048,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "横浜中華街 北京飯店",
+        "rating": 3.9,
+        "user_ratings_total": 549,
+        "price_level": 2,
+        "distance": "4.8 km",
+        "duration": "10分"
+    },
+    {
+        "name": "重慶茶樓",
+        "rating": 3.7,
+        "user_ratings_total": 616,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "横浜中華街 香港飲茶専門店 香港大飯店",
+        "rating": 4.6,
+        "user_ratings_total": 2299,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "四川料理 私家麺館・福 横浜鶴屋町店",
+        "rating": 4,
+        "user_ratings_total": 144,
+        "price_level": 2,
+        "distance": "1.1 km",
+        "duration": "3分"
+    },
+    {
+        "name": "横浜中華街 華錦飯店",
+        "rating": 4.1,
+        "user_ratings_total": 500,
+        "price_level": 1,
+        "distance": "4.9 km",
+        "duration": "12分"
+    },
+    {
+        "name": "ドラゴン酒家本店",
+        "rating": 3.9,
+        "user_ratings_total": 531,
+        "price_level": 2,
+        "distance": "0.3 km",
+        "duration": "2分"
+    },
+    {
+        "name": "福龍酒家",
+        "rating": 3.9,
+        "user_ratings_total": 223,
+        "price_level": 2,
+        "distance": "6.4 km",
+        "duration": "11分"
+    },
+    {
+        "name": "MS. CASABLANCA",
+        "rating": 3.5,
+        "user_ratings_total": 109,
+        "price_level": -1,
+        "distance": "0.2 km",
+        "duration": "2分"
+    },
+    {
+        "name": "秀味園",
+        "rating": 3.6,
+        "user_ratings_total": 576,
+        "price_level": 1,
+        "distance": "4.8 km",
+        "duration": "11分"
+    },
+    {
+        "name": "中国料理 煌蘭 横浜店",
+        "rating": 3.8,
+        "user_ratings_total": 101,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "獅門酒楼(シモンシュロウ)",
+        "rating": 4,
+        "user_ratings_total": 702,
+        "price_level": 2,
+        "distance": "5.2 km",
+        "duration": "12分"
+    },
+    {
+        "name": "DRAGON酒家 離",
+        "rating": 3.8,
+        "user_ratings_total": 131,
+        "price_level": 2,
+        "distance": "0.6 km",
+        "duration": "4分"
+    },
+    {
+        "name": "菜香新館",
+        "rating": 4.2,
+        "user_ratings_total": 2444,
+        "price_level": -1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "京華樓 鶴屋町CRANE店",
+        "rating": 4.1,
+        "user_ratings_total": 435,
+        "price_level": -1,
+        "distance": "1.1 km",
+        "duration": "4分"
+    },
+    {
+        "name": "中華 一品料理 龍味",
+        "rating": 4.2,
+        "user_ratings_total": 1105,
+        "price_level": 1,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "横浜中華街 福満園本店",
+        "rating": 3.8,
+        "user_ratings_total": 428,
+        "price_level": 2,
+        "distance": "4.6 km",
+        "duration": "10分"
+    },
+    {
+        "name": "四大料理小籠包食べ放題 接筵 (せつえん)",
+        "rating": 4.3,
+        "user_ratings_total": 515,
+        "price_level": 2,
+        "distance": "4.8 km",
+        "duration": "11分"
+    },
+    {
+        "name": "中国飯店(チュウゴクハンテン)",
+        "rating": 3.2,
+        "user_ratings_total": 593,
+        "price_level": 2,
+        "distance": "4.8 km",
+        "duration": "11分"
+    },
+    {
+        "name": "麻婆豆腐の名店 龍門新館 横浜中華街",
+        "rating": 3.3,
+        "user_ratings_total": 177,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "四五六菜館(シゴロクサイカン) 本館",
+        "rating": 3.7,
+        "user_ratings_total": 759,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "横浜中華街 四川麻婆 新館",
+        "rating": 4.4,
+        "user_ratings_total": 1006,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "横浜中華街 千禧楼 中国料理",
+        "rating": 3.7,
+        "user_ratings_total": 225,
+        "price_level": 2,
+        "distance": "4.9 km",
+        "duration": "10分"
+    },
+    {
+        "name": "中華居酒屋 香園（こうえん）横浜東口",
+        "rating": 3.5,
+        "user_ratings_total": 183,
+        "price_level": 2,
+        "distance": "0.4 km",
+        "duration": "3分"
+    },
+    {
+        "name": "鵬天閣 新館",
+        "rating": 3.9,
+        "user_ratings_total": 838,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "興口福",
+        "rating": 3.8,
+        "user_ratings_total": 213,
+        "price_level": 1,
+        "distance": "4.9 km",
+        "duration": "12分"
+    },
+    {
+        "name": "重慶飯店 本館",
+        "rating": 4.2,
+        "user_ratings_total": 837,
+        "price_level": 2,
+        "distance": "4.6 km",
+        "duration": "9分"
+    },
+    {
+        "name": "北京ダック専門店 北京烤鴨店中華街店（ペキンカォヤーテン)",
+        "rating": 3.8,
+        "user_ratings_total": 1122,
+        "price_level": 1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "永福楼",
+        "rating": 3.3,
+        "user_ratings_total": 190,
+        "price_level": 1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "一味玲玲 横浜店",
+        "rating": 3.1,
+        "user_ratings_total": 123,
+        "price_level": -1,
+        "distance": "0.7 km",
+        "duration": "3分"
+    },
+    {
+        "name": "京華樓 中華街大通り店",
+        "rating": 4,
+        "user_ratings_total": 408,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "民生炒飯 横浜中華街本店",
+        "rating": 3.9,
+        "user_ratings_total": 278,
+        "price_level": 2,
+        "distance": "5.0 km",
+        "duration": "12分"
+    },
+    {
+        "name": "横浜酒家",
+        "rating": 3.7,
+        "user_ratings_total": 543,
+        "price_level": 1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "中華料理・タイ料理「チャイハナ」",
+        "rating": 4.1,
+        "user_ratings_total": 164,
+        "price_level": 2,
+        "distance": "0.6 km",
+        "duration": "4分"
+    },
+    {
+        "name": "王府井 本店",
+        "rating": 3.7,
+        "user_ratings_total": 367,
+        "price_level": 2,
+        "distance": "4.6 km",
+        "duration": "10分"
+    },
+    {
+        "name": "龍鳳酒家(リュウホウシュカ)",
+        "rating": 4.2,
+        "user_ratings_total": 400,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "11分"
+    },
+    {
+        "name": "龍城飯店(リュウジョウハンテン) 香港路店",
+        "rating": 3.6,
+        "user_ratings_total": 262,
+        "price_level": 1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "翡翠楼 本店",
+        "rating": 3.7,
+        "user_ratings_total": 420,
+        "price_level": 2,
+        "distance": "5.2 km",
+        "duration": "12分"
+    },
+    {
+        "name": "皇朝レストラン",
+        "rating": 3.8,
+        "user_ratings_total": 876,
+        "price_level": 2,
+        "distance": "4.9 km",
+        "duration": "11分"
+    },
+    {
+        "name": "横浜中華街 食べ放題 本格四川料理 薬膳火鍋専門店 マーラータン -成簽尚萬-",
+        "rating": 4.5,
+        "user_ratings_total": 223,
+        "price_level": -1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "中華飯店",
+        "rating": 4.2,
+        "user_ratings_total": 138,
+        "price_level": 1,
+        "distance": "4.7 km",
+        "duration": "11分"
+    },
+    {
+        "name": "美食酒楼 心龍",
+        "rating": 4.1,
+        "user_ratings_total": 296,
+        "price_level": 2,
+        "distance": "5.2 km",
+        "duration": "12分"
+    },
+    {
+        "name": "中華菜館 同發本館",
+        "rating": 4.2,
+        "user_ratings_total": 875,
+        "price_level": 2,
+        "distance": "4.6 km",
+        "duration": "10分"
+    },
+    {
+        "name": "健康中華 青蓮 横浜西口店",
+        "rating": 3.5,
+        "user_ratings_total": 87,
+        "price_level": 2,
+        "distance": "0.2 km",
+        "duration": "1分"
+    },
+    {
+        "name": "辣妹子",
+        "rating": 3.8,
+        "user_ratings_total": 147,
+        "price_level": 2,
+        "distance": "0.6 km",
+        "duration": "3分"
+    },
+    {
+        "name": "中華ダイニング 四川厨房 横浜店",
+        "rating": 3.9,
+        "user_ratings_total": 290,
+        "price_level": 2,
+        "distance": "0.5 km",
+        "duration": "2分"
+    },
+    {
+        "name": "桃花苑",
+        "rating": 3.9,
+        "user_ratings_total": 82,
+        "price_level": -1,
+        "distance": "0.3 km",
+        "duration": "1分"
+    },
+    {
+        "name": "中華料理 許厨房(キョチュウボウ)",
+        "rating": 4.4,
+        "user_ratings_total": 263,
+        "price_level": 2,
+        "distance": "4.8 km",
+        "duration": "11分"
+    },
+    {
+        "name": "横浜中華街 四川麻婆（しせんまーぼー）",
+        "rating": 4.2,
+        "user_ratings_total": 243,
+        "price_level": 2,
+        "distance": "5.3 km",
+        "duration": "13分"
+    },
+    {
+        "name": "中国郷土料理 錦里（キンリ） 中国伝統芸能 変面ショー",
+        "rating": 3.9,
+        "user_ratings_total": 348,
+        "price_level": 2,
+        "distance": "4.9 km",
+        "duration": "11分"
+    },
+    {
+        "name": "新楽(シンラク)",
+        "rating": 4.1,
+        "user_ratings_total": 83,
+        "price_level": 1,
+        "distance": "4.9 km",
+        "duration": "11分"
+    },
+    {
+        "name": "蓮香園(レンコウエン)新館 横浜中華街",
+        "rating": 3.5,
+        "user_ratings_total": 219,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "11分"
+    },
+    {
+        "name": "横浜中華街食べ放題 小籠包専門店七福",
+        "rating": 4,
+        "user_ratings_total": 1177,
+        "price_level": -1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "清香園(セイコウエン)",
+        "rating": 4,
+        "user_ratings_total": 215,
+        "price_level": 2,
+        "distance": "5.3 km",
+        "duration": "13分"
+    },
+    {
+        "name": "牡丹園(ボタンエン)",
+        "rating": 4.3,
+        "user_ratings_total": 345,
+        "price_level": -1,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "慶福楼(ケイフクロウ)本店 市場通り",
+        "rating": 3.7,
+        "user_ratings_total": 266,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    },
+    {
+        "name": "一楽(イチラク)",
+        "rating": 4,
+        "user_ratings_total": 608,
+        "price_level": 2,
+        "distance": "4.7 km",
+        "duration": "10分"
+    }
+]

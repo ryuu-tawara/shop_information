@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <title>JavaScript</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.0/css/theme.default.min.css">
+    <script src="script.js"></script>
+    <style>
+        #shop_info_table th {
+            background-color:rgb(192, 255, 203);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>概要</h1>
+    <h3 style="margin-left: 1%;">武蔵小杉駅周辺の焼肉屋についてGMPの下記APIを叩きレスポンスを調査結果として出力している。</h3>
+    <a style="margin-left: 2%;" href="https://developers.google.com/maps/documentation/directions/overview?hl=ja">・Directions API(店までの距離、移動時間を取得)</a>
+    <a style="margin-left: 2%;" href="https://developers.google.com/maps/documentation/places/web-service/search-text?hl=ja">・Place API(その他の項目を取得)</a>
+    
+
+    <h3 style="margin-left: 1%;">調査結果に記載の項目の意味を下記に記載する</h3>
+    <p style="margin-left: 2%;">・店名：店の名前</p>
+    <p style="margin-left: 2%;">・評価の平均：Google mapで表示される評価値</p>
+    <p style="margin-left: 2%;">・評価の合計：Google mapで表示される評価の合計値</p>
+    <p style="margin-left: 2%;">・価格帯(0～4)：-1 未定義、0 無料、1 安い、2 普通、3 高い、4 非常に高い</p>
+    <p style="margin-left: 2%;">・店までの距離：武蔵小杉駅から対象の店までの距離(武蔵小杉駅は仮で要望があれば変更化)</p>
+    <p style="margin-left: 2%;">・店までの移動時間：武蔵小杉駅から対象の店までの車での移動時間</p>
+    
+    <div>
+        <h1>調査結果</h1>
+        <table id='shop_info_table' class="table table-bordered" border="1" width="100%" style="font-size: 20px;">
+            <thead>
+                <tr>
+                    <th>店名</th>
+                    <th>評価の平均</th>
+                    <th>評価の合計</th>
+                    <th>価格帯(-1～4)</th>
+                    <th>店までの距離</th>
+                    <th>店までの移動時間</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+
+</html>
