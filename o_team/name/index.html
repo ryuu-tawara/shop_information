@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <script src="script.js" defer></script>
+    <title>日程選択</title>
+    <h1>飲み会の日程を選択してください。</h1>
+
+    <form name="form">
+        <table class="table_design">
+            <thead id="days">
+                <tr>
+                    <th class="tableHead">日付</th>
+                    <th class="tableHead">✕</th>
+                    <th class="tableHead">△</th>
+                    <th class="tableHead">〇</th>
+                </tr>
+            </thead>
+        </table>
+    </form>
+
+    <input id="send" class="send" type="button" value="送信する" onclick=sendMessage() />
+</body>

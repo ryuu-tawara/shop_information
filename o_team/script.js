@@ -1,5 +1,5 @@
 function nextPage() {
-    let surnameElement = document.getElementsByName("surname")
+    let surnameElement = document.getElementsByName("surname");
     let len = surnameElement.length;
     let checkValue = '';
 
@@ -12,9 +12,9 @@ function nextPage() {
     let showDiv = document.getElementById("notNameSelect")
     // ラジオボタンが選択されていない場合に選択を促す
     if (checkValue == '') {
-        showDiv.style.display = 'block'
+        showDiv.style.display = 'block';
     } else {
-        showDiv.style.display = 'none'
-        window.location.href = `./name/index.html?surname=${checkValue}`
+        showDiv.style.display = 'none';
+        window.location.href = `./name/index.html?name=${checkValue}`;
     }
 }
