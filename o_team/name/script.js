@@ -113,7 +113,8 @@ function sendMessage() {
     "nakamura": "中村",
     "nisii": "西井",
     "nogami": "野上",
-    "nozaki": "野崎"
+    "nozaki": "野崎",
+    "tokura": "戸倉"
   };
   let name = getParam("name")
   if (name in targetDic) {
