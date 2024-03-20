@@ -118,7 +118,7 @@ function sendMessage() {
   };
   let name = getParam("name")
   if (name in targetDic) {
-    window.location.href = `https://script.google.com/macros/s/AKfycbyR8Zt5PHcSXLt6FfippmKRoVfzyQ6C0oWT4ykSIk8Y2hGlFzTMY8XCgs3uwuYqfvco/exec?name=${name}`;
+    window.location.href = `https://script.google.com/macros/s/AKfycbzDyx3z6JFWZbNhLR6B-7Cq74qMOBB7U4s674sjaRllnZiigDh-Pdncf_4IOJ7omusn/exec?name=${name}`;
   }
 }
 
