@@ -1,20 +1,20 @@
 // 変数定義
 const point = [0, 1, 2];
-const holidays = getHolidays();
+const [dates, holidays] = getDays()
 
 // 初期化処理
 // テーブルを作成する
-for (var i = 0; i < holidays.length; i++) {
-  var tr = document.createElement("tr");
+for (let i = 0; i < holidays.length; i++) {
+  let tr = document.createElement("tr");
   tr.setAttribute("id", "checkSelect");
-  var td = document.createElement("td");
+  let td = document.createElement("td");
   td.textContent = holidays[i];
   tr.appendChild(td);
   document.getElementById("days").appendChild(tr);
 
-  for (var j = 0; j < point.length; j++) {
-    var td = document.createElement("td");
-    var input = document.createElement("input");
+  for (let j = 0; j < point.length; j++) {
+    let td = document.createElement("td");
+    let input = document.createElement("input");
     input.setAttribute("type", "radio");
     input.setAttribute("class", "radioButton")
     input.setAttribute("id", "day_" + i);
@@ -35,9 +35,9 @@ document.head.appendChild(link);
 /**
  * フォーマットされた日付と曜日を返却する
  * 
- * @returns YYYY年MM月DD日 W曜日
+ * @returns [YYYY-MM,YYYY年MM月DD日 W曜日]
  */
-function getHolidays() {
+function getDays() {
   let today = new Date();
   let y = today.getFullYear();
   let m = today.getMonth();
@@ -45,6 +45,7 @@ function getHolidays() {
   // 末日までの日数
   let d = new Date(y, mm, 0).getDate();
 
+  let dates = [];
   let showDay = [];
   for (let i = 1; i <= d; i++) {
     // [i]日が一週間の中で何番目かを取得。実行結果は0から数えた番号で返される。
@@ -55,11 +56,13 @@ function getHolidays() {
     // [i]日の曜日が、日曜と土曜の時だけ書き出す
     if (w === 0 || w === 6) {
       let day = i.toString().padStart(2, "0");
-      showDay.push(y + "年" + mm + "月" + day + "日\t" + ww[w] + "曜日");
+      let month = mm.toString().padStart(2, "0");
+      dates.push(y + "-" + month + "-" + day);
+      showDay.push(y + "年" + month + "月" + day + "日\t" + ww[w] + "曜日");
     }
   }
 
-  return showDay;
+  return [dates, showDay];
 }
 /**
  * ラジオボタンが全て押された場合に送信ボタンを表示に切り替える
@@ -80,13 +83,14 @@ function checkedProcess() {
  * @returns チェック結果 boolean
  */
 function isAllCheck() {
-  let days = document.form.elements.length / point.length;
+  let days = dates.length;
   for (let i = 0; i < days; i++) {
     let targetDay = "day_" + i;
     let checkedValue = getCheckedValue(document.form.elements[targetDay]);
     // 1つでもnullが返却される場合はfalseを返す
     if (checkedValue == null) return false ;
   }
+
   return true
 }
 
@@ -107,18 +111,29 @@ function getCheckedValue(targetElement) {
   return value;
 }
 
-function sendMessage() {
+function sendData() {
   let targetDic = {
     "tawara": "俵",
     "nakamura": "中村",
     "nisii": "西井",
     "nogami": "野上",
     "nozaki": "野崎",
-    "tokura": "戸倉"
+    "tokura": "戸倉",
   };
   let name = getParam("name")
+  
+  let error = document.getElementById("error")
   if (name in targetDic) {
-    window.location.href = `https://script.google.com/macros/s/AKfycbzDyx3z6JFWZbNhLR6B-7Cq74qMOBB7U4s674sjaRllnZiigDh-Pdncf_4IOJ7omusn/exec?name=${name}`;
+    sendDate = {}
+    for(let i = 0; i < dates.length; i++) {
+      let targetDay = "day_" + i;
+      let checkedValue = getCheckedValue(document.form.elements[targetDay]);
+      sendDate[dates[i]] = checkedValue;
+    }
+    error.style.display = 'none';
+    window.location.href = `https://script.google.com/macros/s/AKfycbx96jqvMdKa2LDYpbOS4c_W8MFMxHvBuMVgoLL5FVcYW9qkTvNsmWhDb-1ek5pC5F5-/exec?name=${name}&&dates=${JSON.stringify(sendDate)}`;
+  } else {
+    error.style.display = 'block';
   }
 }
 
@@ -131,7 +146,7 @@ function sendMessage() {
 function getParam(name) {
   url = window.location.href;
   name = name.replace(/[\[\]]/g, "\\$&");
-  var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+  let regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
       results = regex.exec(url);
   if (!results) return null;
   if (!results[2]) return '';
